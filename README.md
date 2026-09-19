@@ -1,6 +1,8 @@
 # DBClient releases
 
-Signed and notarized builds of DBClient, a native macOS database client.
+Signed and notarized builds of [DBClient](https://dbclient.net), a native macOS database client.
+
+**[dbclient.net](https://dbclient.net)** — features, [docs](https://dbclient.net/docs.html), [pricing](https://dbclient.net/pricing.html) and [release notes](https://dbclient.net/releases.html).
 
 ## Install
 
